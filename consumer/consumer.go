@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"example.com/moda"
+	"example.com/modb"
 )
 
 func main() {
-	fmt.Printf("Const %s", moda.A)
+	fmt.Printf("Const %s", modb.B)
 }
